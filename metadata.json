@@ -1,0 +1,8 @@
+{
+  "name": "Tourist Guidance Mobile Application",
+  "description": "An AI-powered Tourist Guidance Mobile Application featuring customer and guide portals, AI trip planner, interactive chat, booking system, expense tracker, checklist, and travel journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
